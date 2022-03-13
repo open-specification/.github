@@ -1,1 +1,1 @@
-# ![The OSO Cover](../profile/cover.png)
+# ![The OSO Cover](../.github/cover.png)
